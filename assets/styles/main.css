@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: 'Anjoman';
+  src: url('../fonts/Anjoman-Medium.ttf');
+}
+body {
+  direction: rtl;
+  font-family: "Anjoman";
+}
